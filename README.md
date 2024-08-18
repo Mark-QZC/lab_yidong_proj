@@ -4,7 +4,7 @@
     --论文      (论文)  
     --ZRAM.md   (zRAM调研文档)  
     --zRAM调研.pptx (zRAM调研报告ppt)  
-    --虚拟机使用zram记录.md    （zRAM在linux中的配置和使用）
+    --虚拟机zram配置使用测试笔记.md    （zRAM在linux中的配置和使用）
 |-README.md     (this file)  
 ### 引用
 Vivado使用bram进行内存相应地址的读写：
